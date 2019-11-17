@@ -109,3 +109,13 @@ p{
   .hardskill{
     text-align: center;
   }
+
+  img{
+    margin: 0 auto;
+    display: block;
+  }
+
+  video{
+    margin: 0 auto;
+    display: block;
+  }
